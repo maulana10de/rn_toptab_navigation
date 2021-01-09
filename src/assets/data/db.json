@@ -1,0 +1,115 @@
+{
+  "users": [
+    {
+      "username": "maulana",
+      "email": "maulana@mail.com",
+      "password": "123",
+      "role": "user",
+      "id": 1
+    }
+  ],
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 3,
+      "name": "Comedy"
+    },
+    {
+      "id": 4,
+      "name": "Documentary"
+    },
+    {
+      "id": 5,
+      "name": "Drama"
+    }
+  ],
+  "movies": [
+    {
+      "adult": false,
+      "backdrop_path": "/srYya1ZlI97Au4jUYAktDe3avyA.jpg",
+      "genre_ids": [1, 3],
+      "id": 1,
+      "original_language": "en",
+      "original_title": "Wonder Woman 1984",
+      "overview": "Wonder Woman comes into conflict with the Soviet Union during the Cold War in the 1980s and finds a formidable foe by the name of the Cheetah.",
+      "popularity": 4167.11,
+      "poster_path": "/8UlWHLMpgZm9bx6QYh0NFoq67TZ.jpg",
+      "release_date": "2020-12-16",
+      "title": "Wonder Woman 1984",
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 2255
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kf456ZqeC45XTvo6W9pW5clYKfQ.jpg",
+      "genre_ids": [2, 4, 5],
+      "id": 2,
+      "original_language": "en",
+      "original_title": "Soul",
+      "overview": "Joe Gardner is a middle school teacher with a love for jazz music. After a successful gig at the Half Note Club, he suddenly gets into an accident that separates his soul from his body and is transported to the You Seminar, a center in which souls develop and gain passions before being transported to a newborn child. Joe must enlist help from the other souls-in-training, like 22, a soul who has spent eons in the You Seminar, in order to get back to Earth.",
+      "popularity": 3283.369,
+      "poster_path": "/hm58Jw4Lw8OIeECIq5qyPYhAeRJ.jpg",
+      "release_date": "2020-12-25",
+      "title": "Soul",
+      "video": false,
+      "vote_average": 8.4,
+      "vote_count": 2900
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cjaOSjsjV6cl3uXdJqimktT880L.jpg",
+      "genre_ids": [1, 5],
+      "id": 3,
+      "original_language": "en",
+      "original_title": "The Croods: A New Age",
+      "overview": "Searching for a safer habitat, the prehistoric Crood family discovers an idyllic, walled-in paradise that meets all of its needs. Unfortunately, they must also learn to live with the Bettermans -- a family that's a couple of steps above the Croods on the evolutionary ladder. As tensions between the new neighbors start to rise, a new threat soon propels both clans on an epic adventure that forces them to embrace their differences, draw strength from one another, and survive together.",
+      "popularity": 1266.019,
+      "poster_path": "/tK1zy5BsCt1J4OzoDicXmr0UTFH.jpg",
+      "release_date": "2020-11-25",
+      "title": "The Croods: A New Age",
+      "video": false,
+      "vote_average": 7.8,
+      "vote_count": 994
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/aQUM5qfBBdWQQk3mwKp6OLwv8mS.jpg",
+      "genre_ids": [3, 4],
+      "id": 4,
+      "original_language": "ja",
+      "original_title": "シン・エヴァンゲリオン劇場版:||",
+      "overview": "The fourth and final film in the Rebuild of Evangelion series.",
+      "popularity": 709.11,
+      "poster_path": "/q034rbTWteRNA8sMSc2YjegmiUx.jpg",
+      "release_date": "2021-01-23",
+      "title": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/eShw0LB5CkoEfYtpUcXPD85oz5Q.jpg",
+      "genre_ids": [1, 5],
+      "id": 5,
+      "original_language": "en",
+      "original_title": "Freaky",
+      "overview": "A mystical, ancient dagger causes a notorious serial killer to magically switch bodies with a 17-year-old girl.",
+      "popularity": 325.163,
+      "poster_path": "/8xC6QSyxrpm0D5A6iyHNemEWBVe.jpg",
+      "release_date": "2020-11-12",
+      "title": "Freaky",
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 290
+    }
+  ]
+}
